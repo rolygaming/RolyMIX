@@ -1,7 +1,7 @@
 <h1 align="center">CS 1.6 Edit By c0deX - Archivos</h1>
 <p align="center">Counter-Strike 1.6 Con Implementación Amx Mod X</p>
 
-<h1 align="center"><a href="https://github.com/SmileYzn/MatchBot/">Usar el nuevo Metamod plugin: MatchBOT</a></h1>
+<h1 align="center"><a href="https://github.com/rolygaming/MatchBot/">Usar el nuevo Metamod plugin: MatchBOT</a></h1>
 
 <p align="center">
     <a href="https://www.amxmodx.org/downloads-new.php"><img src="https://img.shields.io/badge/AMXModX-%3E%3D1.10.0-blue?style=flat-square" alt="AMXModX dependency"></a>
