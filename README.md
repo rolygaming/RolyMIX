@@ -58,7 +58,7 @@ Al final, el servidor iniciará un mapa de votación para cambiar de nivel al si
 
 <h3>¿Por qué CS 1.6 es una porquería?</h3>
 <p>
-En primer lugar, ¡de nada!<br>
+En primer lugar, ¡NO LO ES!!!<br>
 En realidad, tenemos CS:GO, una versión más moderna del juego.<br>
 Pero aún podemos divertirnos con un juego como Counter-Strike que se ha jugado durante más de 20 años.<br>
 Creo que puedo ayudar a la comunidad a tener más servidores limpios que quieran jugar una partida competitiva.
